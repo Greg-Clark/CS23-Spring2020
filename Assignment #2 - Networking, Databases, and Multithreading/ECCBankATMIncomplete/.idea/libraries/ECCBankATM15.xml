@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ECCBankATM15">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/ECCBankATM.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

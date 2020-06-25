@@ -1,0 +1,9 @@
+Files that need to be converted from swing to JavaFX
+
+• Bank Option Frame
+• Deposit Panel
+• Ecc Bank
+
+•addAccount
+In the addAccount method we still need to change the font and there is an issue in the second TextInputDialog box. The issue is the text that is entered into the first box will still be there in the second box. Need to figure out how to clear that.
+
